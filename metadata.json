@@ -1,0 +1,6 @@
+{
+  "name": "GmailVault - Quản Lý & Sắp Xếp Gmail, Mật Khẩu",
+  "description": "Quản lý và sắp xếp tài khoản Gmail và mật khẩu an toàn, tìm kiếm tức thì theo bảng chữ cái A-Z, đánh dấu trạng thái còn dùng được hay đã hỏng, quản lý ứng dụng liên kết.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
